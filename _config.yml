@@ -1,4 +1,3 @@
-layout_spectrum: 0.37579923192970455
 typography_spectrum: 0.8042546128854156
 color:
   brandStrength: 0.6406424872111529
@@ -11,4 +10,11 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.37579923192970455
+author:
+  name: Rodolfo Schilling
+  email: rodolfo.schilling@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e750eae-01ff-4e29-9da6-33225fa847ad.jpg
 name: Rodolfo Schilling
+title: 'Somos seres Energía, libres y armónicos.'
